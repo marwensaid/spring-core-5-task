@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/sonarlint/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+
+# OSX
+*.DS_Store
