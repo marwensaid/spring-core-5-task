@@ -241,28 +241,49 @@
         <!-- Section: main -->
         <!-- Day 1 -->
         <module>spring-intro</module>
+        <module>spring-intro-solution</module>
         <module>javaconfig-dependency-injection</module>
+        <module>javaconfig-dependency-injection-solution</module>
         <module>annotations</module>
+        <module>annotations-solution</module>
         <module>test</module>
+        <module>test-solution</module>
         <module>aop</module>
+        <module>aop-solution</module>
         <module>jdbc</module>
+        <module>jdbc-solution</module>
         <!-- Day 3 -->
         <module>tx</module>
+        <module>tx-solution</module>
         <module>jpa</module>
+        <module>jpa-solution</module>
         <module>spring-data-jpa</module>
+        <module>spring-data-jpa-solution</module>
         <module>mvc</module>
+        <module>mvc-solution</module>
         <module>security</module>
+        <module>security-solution</module>
         <module>rest-ws</module>
+        <module>rest-ws-solution</module>
         <module>ms-discovery-server</module>
+        <module>ms-discovery-server-solution</module>
         <module>ms-accounts-server</module>
+        <module>ms-accounts-server-solution</module>
         <module>ms-web-client</module>
+        <module>ms-web-client-solution</module>
         <module>reactive-spring</module>
+        <module>reactive-spring-solution</module>
         <!-- Section: optional -->
         <module>mvc-no-boot</module>
+        <module>mvc-no-boot-solution</module>
         <module>jms</module>
+        <module>jms-solution</module>
         <module>jmx</module>
+        <module>jmx-solution</module>
         <module>xml-di</module>
+        <module>xml-di-solution</module>
         <module>xml-dependency-injection-best-practices</module>
+        <module>xml-dependency-injection-best-practices-solution</module>
         <!-- Section: appendix -->
     </modules>
 </project>
